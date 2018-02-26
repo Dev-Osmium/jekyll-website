@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Interesting new Project
+title: An Interesting New Project
 ---
 
 # Background
