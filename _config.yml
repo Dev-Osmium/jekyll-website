@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Rants, Docs, and more! Everything for all my projects can be found here, with changelogs and rants about today's top tech issues
   found in the blog!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://devosmium.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DevOsmium
 github_username:  Dev-Osmium
 
