@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Interesting New Project
-categories: changelog
+tags: changelog
 ---
 
 # Background
