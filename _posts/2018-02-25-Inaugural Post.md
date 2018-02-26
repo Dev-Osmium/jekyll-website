@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: miscellaneous
 ---
 # Purpose
 Well, let's be honest. I never expected to lose my nice WordPress site to a failed backup and restore. But hey! here I am, with a new Jekyll
